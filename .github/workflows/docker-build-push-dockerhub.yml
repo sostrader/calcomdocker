@@ -77,9 +77,8 @@ jobs:
         uses: docker/metadata-action@v5
         with:
           images: |
-            docker.io/bitcoinnanolabs/calendso
             docker.io/bitcoinnanolabs/cal.com
-            ghcr.io/calcom/cal.com
+
           # Add flavor latest only on full releases, not on pre-releases
           flavor: |
             latest=${{ !github.event.release.prerelease }}
