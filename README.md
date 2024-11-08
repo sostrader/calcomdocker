@@ -8,7 +8,7 @@
   <h3 align="center">Cal.com (formerly Calendso)</h3>
 
   <p align="center">
-    The open-source Calendly alternative. (Docker Edition)
+    The open-source Calendly alternative. Emerson version(Docker Edition)
     <br />
     <a href="https://cal.com"><strong>Learn more »</strong></a>
     <br />
